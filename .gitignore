@@ -26,3 +26,8 @@ dist/
 config.json
 changelog.md
 changelog.md.bk
+
+# Build artifacts (rebuilt via gulp before zipping)
+assets/built/
+dist/
+*.zip
